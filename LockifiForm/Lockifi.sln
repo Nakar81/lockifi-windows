@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockifiApp", "WindowsFormsApplication2\LockifiApp.csproj", "{BEA1B1F0-0D07-4B68-930B-49FDC7C5C036}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Lockifi", "Lockifi\Lockifi.vdproj", "{379118B8-1E25-409C-8AA1-E14B33466288}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEA1B1F0-0D07-4B68-930B-49FDC7C5C036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA1B1F0-0D07-4B68-930B-49FDC7C5C036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA1B1F0-0D07-4B68-930B-49FDC7C5C036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA1B1F0-0D07-4B68-930B-49FDC7C5C036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{379118B8-1E25-409C-8AA1-E14B33466288}.Debug|Any CPU.ActiveCfg = Debug
+		{379118B8-1E25-409C-8AA1-E14B33466288}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
